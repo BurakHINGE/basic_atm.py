@@ -9,7 +9,7 @@
 | Dil / Language | Dosya / File | Açıklama / Description |
 |----------------|-------------|----------------------|
 | Türkçe / Turkish | [tr_basic_atm.py](tr_basic_atm.py) | Basit ATM uygulaması, bakiye sorgulama, para yatırma/çekme, çıkış |
-| İngilizce / English | (Gelecek / Coming soon) | Daha gelişmiş sürüm: hesap oluşturma ve bakiye bilgilerini hatırlama |
+| İngilizce / English | (Gelecek / Coming soon) | (Gelecek / Coming Soon) |
 
 ---
 
