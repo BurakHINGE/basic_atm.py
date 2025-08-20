@@ -9,7 +9,7 @@
 | Dil / Language | Dosya / File | Açıklama / Description |
 |----------------|-------------|----------------------|
 | Türkçe / Turkish | [tr_basic_atm.py](tr_basic_atm.py) | Basit ATM uygulaması, bakiye sorgulama, para yatırma/çekme, çıkış |
-| İngilizce / English | (Gelecek / Coming soon) | (Gelecek / Coming Soon) |
+| İngilizce / English | [eng_basic_atm.py](eng_basic_atm.py) | Basic ATM application, balance inquiry, deposit/withdrawal, exit |
 
 ---
 
@@ -42,9 +42,9 @@ python tr_basic_atm.py
 
 ### About
 This repository contains a basic ATM application.  
-Currently, the Turkish version (`tr_basic_atm.py`) is available and supports basic ATM operations:
+Currently, the Turkish version (`eng_basic_atm.py`) is available and supports basic ATM operations:
 
-- Check balance  
+- Balance inquiry  
 - Deposit money  
 - Withdraw money  
 - Exit  
@@ -60,7 +60,7 @@ A more advanced version will be added later, featuring:
 
 ### Usage
 ```bash
-python tr_basic_atm.py
+python eng_basic_atm.py
 ```
 
 ## Lisans / License
