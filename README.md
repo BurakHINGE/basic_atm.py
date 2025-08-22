@@ -4,6 +4,11 @@
 
 ---
 
+## 📌 Versiyon Bilgisi | Version Info
+- Geçerli Sürüm: **0.1.0**  
+- Current Version: **0.1.0**
+
+---
 ## Dosyalar / Files
 
 | Dil / Language | Dosya / File | Açıklama / Description |
