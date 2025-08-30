@@ -1,0 +1,33 @@
+name: "🐞 Hata / Bug Bildirimi"
+description: "ATM uygulamasında karşılaşılan bir hatayı bildirin"
+title: "[BUG] - "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Açıklama
+      description: Hatanın ne olduğunu detaylı şekilde yazınız.
+      placeholder: "ATM uygulamasında para çekme işlemi çalışmıyor..."
+  - type: textarea
+    id: steps
+    attributes:
+      label: Yeniden Üretme Adımları
+      description: Hatayı yeniden üretmek için adımları yazınız.
+      placeholder: "1. Giriş yap\n2. Para çekme seçeneğini seç\n3. ..."
+  - type: textarea
+    id: expected
+    attributes:
+      label: Beklenen Davranış
+      description: Ne olmasını bekliyordunuz?
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Ekran Görüntüleri
+      description: Varsa ekran görüntüsü ekleyin.
+  - type: input
+    id: version
+    attributes:
+      label: Versiyon
+      description: Hangi versiyonda hata oluştu?
+      placeholder: "v1.0"
