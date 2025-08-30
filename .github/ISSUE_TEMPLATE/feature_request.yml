@@ -1,0 +1,23 @@
+name: "✨ İstek / Feature Request"
+description: "ATM uygulaması için yeni özellik önerin / Suggest a new feature for the ATM application"
+title: "[FEATURE] - "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: feature
+    attributes:
+      label: İstediğiniz Özellik / Requested Feature
+      description: Eklenmesini istediğiniz özelliği açıklayın. / Describe the feature you would like to be added.
+      placeholder: "Çoklu kullanıcı desteği eklenebilir. / Add multi-user support."
+  - type: textarea
+    id: reason
+    attributes:
+      label: Neden? / Why?
+      description: Bu özelliğin neden gerekli olduğunu açıklayın. / Explain why this feature is necessary.
+      placeholder: "Kullanıcı deneyimini artırmak için... / To improve user experience..."
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatif Çözümler / Alternatives
+      description: Başka düşündüğünüz çözüm var mı? / Did you consider alternative solutions?
+      placeholder: "JSON yerine SQLite kullanılabilir. / Use SQLite instead of JSON."
