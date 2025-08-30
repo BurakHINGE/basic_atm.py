@@ -1,33 +1,33 @@
-name: "🐞 Hata / Bug Bildirimi"
-description: "ATM uygulamasında karşılaşılan bir hatayı bildirin"
+name: "🐞 Hata / Bug Report"
+description: "ATM uygulamasında karşılaşılan bir hatayı bildirin / Report a bug in the ATM application"
 title: "[BUG] - "
 labels: ["bug"]
 body:
   - type: textarea
     id: description
     attributes:
-      label: Açıklama
-      description: Hatanın ne olduğunu detaylı şekilde yazınız.
-      placeholder: "ATM uygulamasında para çekme işlemi çalışmıyor..."
+      label: Açıklama / Description
+      description: Hatanın ne olduğunu detaylı şekilde yazınız. / Clearly describe the bug you encountered.
+      placeholder: "ATM uygulamasında para çekme işlemi çalışmıyor... / The ATM withdrawal function doesn’t work..."
   - type: textarea
     id: steps
     attributes:
-      label: Yeniden Üretme Adımları
-      description: Hatayı yeniden üretmek için adımları yazınız.
-      placeholder: "1. Giriş yap\n2. Para çekme seçeneğini seç\n3. ..."
+      label: Yeniden Üretme Adımları / Steps to Reproduce
+      description: Hatayı yeniden üretmek için adımları yazınız. / List the steps to reproduce the issue.
+      placeholder: "1. Giriş yap / Login\n2. Para çekme seçeneğini seç / Select Withdraw\n3. ..."
   - type: textarea
     id: expected
     attributes:
-      label: Beklenen Davranış
-      description: Ne olmasını bekliyordunuz?
+      label: Beklenen Davranış / Expected Behavior
+      description: Ne olmasını bekliyordunuz? / What did you expect to happen?
   - type: textarea
     id: screenshots
     attributes:
-      label: Ekran Görüntüleri
-      description: Varsa ekran görüntüsü ekleyin.
+      label: Ekran Görüntüleri / Screenshots
+      description: Varsa ekran görüntüsü ekleyin. / If applicable, add screenshots.
   - type: input
     id: version
     attributes:
-      label: Versiyon
-      description: Hangi versiyonda hata oluştu?
+      label: Versiyon / Version
+      description: Hangi versiyonda hata oluştu? / Which version are you using?
       placeholder: "v1.0"
