@@ -5,8 +5,8 @@
 ---
 
 ## 📌 Versiyon Bilgisi | Version Info
-- Geçerli Sürüm: **0.1.0**  
-- Current Version: **0.1.0**
+- Geçerli Sürüm: **1.1.0**  
+- Current Version: **1.1.0**
 
 ---
 ## Dosyalar / Files
