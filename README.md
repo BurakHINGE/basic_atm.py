@@ -70,7 +70,7 @@ python eng_basic_atm.py
 
 ---
 
-# Sürüm Geçmişi / Version History
+## Sürüm Geçmişi / Version History
 
 ### v1.1.0 (2025-08-20)  
 - Kod dili olarak İngilizce desteği eklendi / Added English as the code language  
