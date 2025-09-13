@@ -68,5 +68,17 @@ A more advanced version will be added later, featuring:
 python eng_basic_atm.py
 ```
 
+---
+
+# Sürüm Geçmişi / Version History
+
+### v1.1.0 (2025-08-20)  
+- Kod dili olarak İngilizce desteği eklendi / Added English as the code language  
+
+### v1.0.0 (2025-03-09)  
+- Temel ATM yapısı oluşturuldu / Basic ATM structure created  
+
+---
+
 ## Lisans / License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
