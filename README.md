@@ -81,4 +81,5 @@ python eng_basic_atm.py
 ---
 
 ## Lisans / License
+Bu proje MIT Lisansı altında lisanslanmıştır – ayrıntılar için [LICENSE](LICENSE) dosyasına bakınız.  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
