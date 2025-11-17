@@ -4,44 +4,19 @@
 
 ---
 
-## 📌 Versiyon Bilgisi | Version Info
-- Geçerli Sürüm: **1.1.0**  
+## 📌 Version Info | Versiyon Bilgisi
 - Current Version: **1.1.0**
+- Geçerli Sürüm: **1.1.0**  
 
 ---
-## Dosyalar / Files
+## Files / Dosyalar
 
-| Dil / Language | Dosya / File | Açıklama / Description |
+| Language / Dil | File / Dosya | Description / Açıklama |
 |----------------|-------------|----------------------|
-| Türkçe / Turkish | [tr_basic_atm.py](tr_basic_atm.py) | Basit ATM uygulaması, bakiye sorgulama, para yatırma/çekme, çıkış |
 | İngilizce / English | [eng_basic_atm.py](eng_basic_atm.py) | Basic ATM application, balance inquiry, deposit/withdrawal, exit |
+| Türkçe / Turkish | [tr_basic_atm.py](tr_basic_atm.py) | Basit ATM uygulaması, bakiye sorgulama, para yatırma/çekme, çıkış |
 
 ---
-
-## Türkçe
-
-### Hakkında
-Bu repository, basit bir ATM uygulamasını içerir.  
-Şu an Türkçe sürümü `tr_basic_atm.py` dosyasında mevcut ve temel ATM işlemlerini destekler:
-
-- Bakiye sorgulama  
-- Para yatırma  
-- Para çekme  
-- Çıkış  
-
-İlerleyen zamanda daha gelişmiş bir sürüm eklenecek; bu sürümde:  
-- Hesap oluşturma  
-- Bakiye bilgilerini hatırlama  
-- Kullanıcı adı ve şifre ile giriş  
-
-### Gereksinimler
-- Python 3.x
-- Ek bir kütüphane gerekli değil
-
-### Kullanım
-```bash
-python tr_basic_atm.py
-```
 
 ## English
 
@@ -70,16 +45,43 @@ python eng_basic_atm.py
 
 ---
 
-## Sürüm Geçmişi / Version History
+## Türkçe
+
+### Hakkında
+Bu repository, basit bir ATM uygulamasını içerir.  
+Şu an Türkçe sürümü `tr_basic_atm.py` dosyasında mevcut ve temel ATM işlemlerini destekler:
+
+- Bakiye sorgulama  
+- Para yatırma  
+- Para çekme  
+- Çıkış  
+
+İlerleyen zamanda daha gelişmiş bir sürüm eklenecek; bu sürümde:  
+- Hesap oluşturma  
+- Bakiye bilgilerini hatırlama  
+- Kullanıcı adı ve şifre ile giriş  
+
+### Gereksinimler
+- Python 3.x
+- Ek bir kütüphane gerekli değil
+
+### Kullanım
+```bash
+python tr_basic_atm.py
+```
+
+---
+
+## Version History / Sürüm Geçmişi
 
 ### v1.1.0 (2025-08-20)  
-- Kod dili olarak İngilizce desteği eklendi / Added English as the code language  
+- Added English as the code language. / Kod dili olarak İngilizce desteği eklendi.
 
 ### v1.0.0 (2025-03-09)  
-- Temel ATM yapısı oluşturuldu / Basic ATM structure created  
+- Basic ATM structure created. / Temel ATM yapısı oluşturuldu.  
 
 ---
 
 ## Lisans / License
-Bu proje MIT Lisansı altında lisanslanmıştır – ayrıntılar için [LICENSE](LICENSE) dosyasına bakınız.  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Bu proje MIT Lisansı altında lisanslanmıştır – ayrıntılar için [LICENSE](LICENSE) dosyasına bakınız.  
